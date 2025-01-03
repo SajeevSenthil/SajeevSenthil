@@ -16,7 +16,8 @@ Hi there, I'm Sajeev! I’m the guy who solves math for fun, scripts logic for a
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
 
 **AI Frameworks**:  
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FDCA34?style=for-the-badge&logo=huggingface&logoColor=white)  ![LLMs](https://img.shields.io/badge/LLMs-282C34?style=for-the-badge&logo=deepai&logoColor=white)  
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FDCA34?style=for-the-badge&logo=huggingface&logoColor=white)  ![LLMs](https://img.shields.io/badge/LLMs-282C34?style=for-the-badge&logo=deepai&logoColor=white)  ![RAG](https://img.shields.io/badge/RAG-8B0000?style=for-the-badge&logo=knowledgebase&logoColor=white)  ![NLP](https://img.shields.io/badge/NLP-4169E1?style=for-the-badge&logo=openai&logoColor=white)
+
 
 **Hardware**:  
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  ![ESP32](https://img.shields.io/badge/ESP32-8D918D?style=for-the-badge&logo=espressif&logoColor=white)  ![ADALM](https://img.shields.io/badge/ADALM-000000?style=for-the-badge&logoColor=white)  
